@@ -34,7 +34,7 @@
     "react-slick": "^0.25.2",
     "slick-carousel": "^1.8.1",
     "tachyons": "^4.11.1",
-    "validator": "^11.1.0"
+    "validator": "^13.7.0"
   },
   "scripts": {
     "start": "react-scripts start",
